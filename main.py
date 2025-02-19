@@ -33,3 +33,4 @@ if __name__ == "__main__":
 
     else:
         print("Невірний вибір!")
+#Translator of text into binary code.
